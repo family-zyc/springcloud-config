@@ -1,4 +1,1 @@
-server:
-  port: 6666
-config:
-  info: zyc
+server:6666
